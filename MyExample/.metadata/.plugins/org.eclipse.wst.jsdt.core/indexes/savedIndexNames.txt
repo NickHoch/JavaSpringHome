@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\Study\2018-2019\46.Java29c9\Lesson 14. JavaSpringBank - Signup compoent\MyExample\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
